@@ -1,8 +1,9 @@
-# Projeto shark attacks
+# Projeto_shark_attacks 🦈
 
-O objetivo do projeto foi utilizar da linguagem Python juntamente com libs para trabalhar a database disponibilizada sobre ataques de tubarões, fazendo uma pergunta de negócio e atráves das análises chegar a conclusões específicas, disponilizando atráves de uma visualização de dados resumida em ppt.  
+O projeto teve como objetivo utilizar a linguagem Python e algumas de suas libs para analisar e pré-processar uma base de dados disponibilizada sobre ataques de tubarões, respondendo a uma pergunta de negócio e chegando a conclusões específicas. 
+Os resultados foram apresentados de forma resumida em um arquivo PowerPoint.
 
--**1** Para remoção de dados e análise do database:
+-**1** Para pré processamento e análise do database:
 <b> **Linguagens e Ferramentas</b>:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
